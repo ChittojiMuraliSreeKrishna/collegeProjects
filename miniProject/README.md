@@ -15,3 +15,8 @@ SoftwareSerial Gsm(7, 8);
 char phone_no[] = "Your mobile number";
 ```
 ! if the gps module doesn't take proper indexing it will give wrong info
+
+# pictures
+![cs7](https://user-images.githubusercontent.com/62329524/107241017-7805a400-6a22-11eb-91f7-3dad4c909056.jpg)
+![cs8](https://user-images.githubusercontent.com/62329524/107241082-8c49a100-6a22-11eb-9d7f-04b75ba7794f.jpg)
+![cs9](https://user-images.githubusercontent.com/62329524/107241131-979ccc80-6a22-11eb-99ad-4d34da905220.jpg)
